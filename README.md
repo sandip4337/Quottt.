@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/66962455/156747925-6093f5e3-d440-4eac-91b2-d4c1078d25ad.mp4
+
 # Quottt.
 A SIMPLE QUOTE APPLICATION WITH VIEW-MODEL
 
