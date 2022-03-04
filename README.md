@@ -9,7 +9,7 @@ APK FILE : https://drive.google.com/drive/folders/1zrRd7aNdDvZx15o23BpGkPCnP5yYq
 
 APP DESCRIPTION : 
 1. Read JSON file from the Assets folder and parse JSON using GSON 
-2. Via viewmodel getquotes() fuction we get a random quote and via UI we can show the quote
+2. Via viewmodel getquotes() fuction we get a random quote and with ACtivity lifecycle we can show the quote to UI
 3. and we can share that quote via social media
 
 
